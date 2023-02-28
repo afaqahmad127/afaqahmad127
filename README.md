@@ -4,7 +4,7 @@ Hi 👋
 
 My name is Afaq Ahmad a Senior Full Stack Software Engineer having more than 4 years hands on experience.
 
-- 🌱 I try to code and keep learning about new features.
+- 🌱 I try to code and keep learning about new features and tech skills.
 
 - 💬 Ask me about **Python, Java, JavaScript, React JS, Node Js, Django, MongoDB, and the Data Structures.**
 
