@@ -122,6 +122,10 @@ My name is Afaq Ahmad a Senior Full Stack Software Engineer having more than 4 y
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=afaqahmad127)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=afaqahmad127&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+
 ## 🔗 Connect with me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaqahmad-se)
