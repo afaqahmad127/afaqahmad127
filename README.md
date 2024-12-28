@@ -6,7 +6,7 @@ My name is Afaq Ahmad a Senior Full Stack Software Engineer having more than 4 y
 
 - 🌱 I try to code and keep learning about new features and tech skills.
 
-- 💬 Ask me about **Python, Java, JavaScript, React JS, Node Js, Django, MongoDB, and the Data Structures.**
+- 💬 Ask me about **MERN, JavaScript, Typescript, Next JS, React JS, Node Js, Nest JS, MongoDB, and the Data Structures.**
 
 - 📫 How to reach me?? [afaq.ahmad.developer@gmail.com](mailto:afaq.ahmad.developer@gmail.com)
 
@@ -17,14 +17,9 @@ My name is Afaq Ahmad a Senior Full Stack Software Engineer having more than 4 y
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&color=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&color=white&logoColor=black)
 [![NestJs](https://img.shields.io/static/v1?label=&message=NestJs&color=white&logo=NestJs&logoColor=%23E0234E)](https://nestjs.com/)
-[![Django](https://img.shields.io/static/v1?label=&message=Django&color=white&logo=Django&logoColor=%230C9D58)](https://www.djangoproject.com/)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch)
@@ -57,8 +52,6 @@ My name is Afaq Ahmad a Senior Full Stack Software Engineer having more than 4 y
 ### Programming Languages
 
 ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=%23092E20&logo=C%2B%2B&logoColor=%2300599C)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -88,10 +81,18 @@ My name is Afaq Ahmad a Senior Full Stack Software Engineer having more than 4 y
 ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence)
 ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+![ClickUp](https://img.shields.io/badge/-Clickup-333333?style=flat&logo=clickup)
+
 
 ### DevOps
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
+![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=GCP)
+![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=NGINX)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)
+![GithubActions](https://img.shields.io/badge/-GithubActions-333333?style=flat&logo=GithubActions)
 
 ### OS
 
@@ -109,22 +110,6 @@ My name is Afaq Ahmad a Senior Full Stack Software Engineer having more than 4 y
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
-
-## 📊 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaqahmad127&layout=compact&theme=dark)
-
-![Rizwan's github stats](https://github-readme-stats.vercel.app/api?username=afaqahmad127&show_icons=true&theme=dark)
-
-[//]: # '![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=afaqahmad127/learning-express-js)'
-[//]: # '![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=afaqahmad127&theme=react-dark&hide_border=true&area=true)'
-[//]: # '![GitHub metrics](https://metrics.lecoq.io/afaqahmad127)'
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=afaqahmad127)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=afaqahmad127&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 
 ## 🔗 Connect with me
 
